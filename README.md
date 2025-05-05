@@ -1,2 +1,2 @@
 # Image Downloader
- Image downloader with C# language
+ Image downloader using C# 
