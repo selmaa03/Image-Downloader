@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\bin\Debug\net8.0\ImageDownloader.exe
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\bin\Debug\net8.0\ImageDownloader.deps.json
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\bin\Debug\net8.0\ImageDownloader.runtimeconfig.json
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\bin\Debug\net8.0\ImageDownloader.dll
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\bin\Debug\net8.0\ImageDownloader.pdb
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\obj\Debug\net8.0\ImageDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\obj\Debug\net8.0\ImageDownloader.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\obj\Debug\net8.0\ImageDownloader.AssemblyInfo.cs
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\obj\Debug\net8.0\ImageDownloader.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\obj\Debug\net8.0\ImageDownloader.dll
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\obj\Debug\net8.0\refint\ImageDownloader.dll
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\obj\Debug\net8.0\ImageDownloader.pdb
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\obj\Debug\net8.0\ImageDownloader.genruntimeconfig.cache
+C:\Users\user\source\repos\ImageDownloader\ImageDownloader\obj\Debug\net8.0\ref\ImageDownloader.dll
